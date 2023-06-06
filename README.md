@@ -3,27 +3,24 @@ This repository contains code for a web-based chat application called Speakeasy 
 
 ## Features
 
-Text-based chat: Users can enter text prompts in the input field to have a conversation with the chatbot.
-
-Real-time streaming response: The chatbot provides streaming responses.
-
-Text-to-Speech: Speakeasy GPT will play high-fidelity and convincing audio of ChatGPT's responses.
-
-API integration: The application integrates with the OpenAI and ElevenLabs APIs to interact with the chatbot.
+- Text-based chat: Users can enter text prompts in the input field to have a conversation with the chatbot.
+- Real-time streaming response: The chatbot provides streaming responses.
+- Text-to-Speech: Speakeasy GPT will play high-fidelity and convincing audio of ChatGPT's responses.
+- API integration: The application integrates with the OpenAI and ElevenLabs APIs to interact with the chatbot.
 
 ## Usage
 To use the Speakeasy GPT application, follow these steps:
 
-Clone the repository or download the code files.
-Open the index.html file in a web browser.
-Ensure that you have a valid API key for the OpenAI API. This key is required for the application to function properly.
-Enter your API key in the "OpenAI API Key" input field.
-Ensure that you have a valid API key for the ElevenLabs API. This key is required for the application to function properly.
-Enter your API key in the "ElevenLabs API Key" input field.
-Start a conversation by typing a prompt in the text input field.
-Press the submit button or hit Enter to send the prompt to the chatbot.
-The chatbot will generate a response, which will be displayed in the result area.
-The response audio will be played.
+- Clone the repository or download the code files.
+- Open the index.html file in a web browser.
+- Ensure that you have a valid API key for the OpenAI API. This key is required for the application to function properly.
+  - Enter your API key in the "OpenAI API Key" input field.
+- Ensure that you have a valid API key for the ElevenLabs API. This key is required for the application to function properly.
+  - Enter your API key in the "ElevenLabs API Key" input field.
+- Start a conversation by typing a prompt in the text input field.
+- Press the submit button or hit Enter to send the prompt to the chatbot.
+- The chatbot will generate a response, which will be displayed in the result area.
+- The response audio will be played.
 
 ## Dependencies
 The Speakeasy GPT application relies on the following dependencies:
