@@ -42,8 +42,7 @@ The CSS file styles.css can be customized to change the appearance of the chat i
 Contributions to the Speakeasy GPT project are welcome. If you encounter any issues or have suggestions for improvements, feel free to create an issue or submit a pull request on the GitHub repository.
 
 ## License 
-This code is licensed under Creative Commons Attribution-NonCommercial (CC BY-NC).  
-You can use, modify, and distribute this code for non-commercial purposes only, with proper attribution.
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. This means that you are free to share, copy, and redistribute the work in any medium or format for noncommercial purposes only, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 You can find the license here:
 https://creativecommons.org/licenses/by-nc/2.0/
 
