@@ -25,17 +25,18 @@ To use the Speakeasy GPT application, follow these steps:
 ## Dependencies
 The Speakeasy GPT application relies on the following dependencies:
 
-Axios: A promise-based HTTP client for making API requests.
-The application requires a valid API key for the OpenAI API.
-The application also requires a valid API key for the ElevenLabs API.
+- Axios: A promise-based HTTP client for making API requests.  
+  - This relies on the public implementation of Axios.  No libraries are required to be installed locally.
+- The application requires a valid API key for the OpenAI API.
+- The application also requires a valid API key for the ElevenLabs API.
 
 ## Customization
 The CSS file styles.css can be customized to change the appearance of the chat interface. You can modify the styles to match your preferred design or branding.
 
 ## Limitations
-The Speakeasy GPT application relies on the OpenAI GPT-3.5 Turbo model, which has usage limits and pricing. Refer to the OpenAI documentation for more information.
-The automatic speech recognition feature is still under development and not available in the current version of the application.
-The user interface is somewhat limited at this point in development.
+- The Speakeasy GPT application relies on the OpenAI GPT-3.5 Turbo model, which has usage limits and pricing. Refer to the OpenAI documentation for more information.
+- The automatic speech recognition feature is still under development and not available in the current version of the application.
+- The user interface is somewhat limited at this point in development.
 
 ## Contributions
 Contributions to the Speakeasy GPT project are welcome. If you encounter any issues or have suggestions for improvements, feel free to create an issue or submit a pull request on the GitHub repository.
