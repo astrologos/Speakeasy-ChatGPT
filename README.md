@@ -1,3 +1,6 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ajack)
+
+
 # Speakeasy GPT
 This repository contains code for a web-based chat application called Speakeasy GPT. The application uses the OpenAI GPT-3.5 Turbo model to generate responses based on user prompts. It allows users to interact with the chatbot using text input and voice (feature in development).
 
