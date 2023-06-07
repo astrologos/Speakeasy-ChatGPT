@@ -11,6 +11,10 @@ This repository contains code for a web-based chat application called Speakeasy 
 - Text-to-Speech: Speakeasy GPT will play high-fidelity and convincing audio of ChatGPT's responses.
 - API integration: The application integrates with the OpenAI and ElevenLabs APIs to interact with the chatbot.
 
+<br><p align="center">
+<img src="https://github.com/astrologos/Speakeasy-ChatGPT/assets/82430396/8ffdc897-47f9-4901-8b37-c0a36dbcc95b" width=640>
+</p>
+
 ## Usage
 To use the Speakeasy GPT application, follow these steps:
 
