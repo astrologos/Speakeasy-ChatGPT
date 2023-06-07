@@ -7,8 +7,9 @@ This repository contains code for a web-based chat application called Speakeasy 
 ## Features
 
 - Text-based chat: Users can enter text prompts in the input field to have a conversation with the chatbot.
-- Real-time streaming response: The chatbot provides streaming responses.
+- Real-time streaming response: The chatbot streams text responses.
 - Text-to-Speech: Speakeasy GPT will play high-fidelity and convincing audio of ChatGPT's responses.
+- Memory: The interface has queued memory of up to 10 responses.
 - API integration: The application integrates with the OpenAI and ElevenLabs APIs to interact with the chatbot.
 
 <br><p align="center">
